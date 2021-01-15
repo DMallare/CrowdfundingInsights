@@ -1,0 +1,61 @@
+/* Mengjiemei */
+/* body {
+	  color: #40514E;
+	  margin: 0;
+	  text-align: center;
+	  font-family: 'Merriweather', serif;
+}
+
+.navbar-custom { 
+    background-color:#66BFBF;
+}
+
+.display-3 {
+    font-family: gd-sage, Times, "Times New Roman", serif;
+} */
+
+/* .btn {
+		background: #11cdd4;
+		border-radius: 10px;
+		background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+		font-family: 'Montserrat', sans-serif;
+    	color: #ffffff;
+    	font-size: 20px;
+    	padding: 10px 20px 10px 20px;
+    	text-decoration: none;
+} */
+
+/* Zhiwei */
+h1, h5 {
+	text-align: center;
+};
+
+label {
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0px 10px 0px 0px;
+  	display: inline-block;
+  	vertical-align: middle;
+	width: 140px;
+  	text-align: left;
+};
+
+input {
+  	display: inline-block;
+  	vertical-align: middle;
+};
+
+select {
+  	display: inline-block;
+  	vertical-align: middle;
+};
+
+.search-bar {
+  	display: inline-block;
+  	vertical-align: middle;
+};
+
+#partnerid {
+	padding: 0px;
+	margin-right: 5px;
+};
