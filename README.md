@@ -28,7 +28,7 @@ Jason Ven, Mengjiemei Wang, Zhiwei Zhang
 * Allows user to see countries where funded percentage is the least
 * Allows user to see sectors where funded percemtage is the least
 
-![Tables displaying countries and loan sectors with the greatest loan deficit (smallest percentages of loan fulfillment)]
+![Tables displaying countries and loan sectors with the greatest loan deficit (smallest percentages of loan fulfillment)](https://github.com/DMallare/CrowdfundingInsights/blob/main/images/LoanDeficitAnalysisFeature.PNG)
 
 
 ### Analyze need by loan theme (e.g. "startups")
