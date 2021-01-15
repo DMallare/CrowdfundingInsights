@@ -33,7 +33,7 @@ Jason Ven, Mengjiemei Wang, Zhiwei Zhang
 
 ### Analyze need by loan theme (e.g. "startups")
 * Allows user to see regions with top loan count and funding amounts for the specified theme.
-* Calciulates a "need"-driven index to determine which regions have greatest need for funding in the given loan theme category. Uses average loan amount and country GDP in calculation of index.
+* Calculates a "need"-driven index to determine which regions have greatest need for funding in the given loan theme category. Uses average loan amount and country GDP in calculation of index.
 * Includes a map to display locations where demand for loan theme is greatest
 
 ![Top countries and need-driven index for "startup" loan theme](https://github.com/DMallare/CrowdfundingInsights/blob/main/images/LoanThemeAnalysisFeature.PNG)
