@@ -28,6 +28,8 @@ Jason Ven, Mengjiemei Wang, Zhiwei Zhang
 * Allows user to see countries where funded percentage is the least
 * Allows user to see sectors where funded percemtage is the least
 
+![Tables displaying countries and loan sectors with the greatest loan deficit (smallest percentages of loan fulfillment)]
+
 
 ### Analyze need by loan theme (e.g. "startups")
 * Allows user to see regions with top loan count and funding amounts for the specified theme.
